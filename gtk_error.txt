@@ -1,0 +1,5 @@
+[01-Apr-2004 21:08:50] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in c:\phpdev5\www\public\admin.sportsya.com\includes\funciones.php on line 50
+[01-Apr-2004 21:09:05] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in c:\phpdev5\www\public\admin.sportsya.com\includes\funciones.php on line 50
+[01-Apr-2004 21:09:29] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in c:\phpdev5\www\public\admin.sportsya.com\includes\funciones.php on line 50
+[01-Apr-2004 21:24:10] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in c:\phpdev5\www\public\admin.sportsya.com\includes\funciones.php on line 50
+[01-Apr-2004 21:24:54] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in c:\phpdev5\www\public\admin.sportsya.com\includes\funciones.php on line 50

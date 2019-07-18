@@ -1,0 +1,50 @@
+[13-Feb-2004 02:11:01] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in c:\phpdev5\www\public\admin.sportsya.com\especiales\futbol_fechas.php on line 139
+[13-Feb-2004 02:11:01] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in c:\phpdev5\www\public\admin.sportsya.com\especiales\futbol_fechas.php on line 167
+[13-Feb-2004 02:11:06] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in c:\phpdev5\www\public\admin.sportsya.com\especiales\futbol_fechas.php on line 139
+[13-Feb-2004 02:11:06] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in c:\phpdev5\www\public\admin.sportsya.com\especiales\futbol_fechas.php on line 167
+[13-Feb-2004 02:12:10] PHP Warning:  Failed opening 'common/acceso.inc.php' for inclusion (include_path='.;c:\php4\pear') in c:\phpdev5\www\public\admin.sportsya.com\common\conexion.php on line 30
+[13-Feb-2004 02:13:07] PHP Warning:  Failed opening 'common/acceso.inc.php' for inclusion (include_path='.;c:\php4\pear') in c:\phpdev5\www\public\admin.sportsya.com\common\conexion.php on line 30
+[13-Feb-2004 02:13:34] PHP Warning:  Failed opening 'common/acceso.inc.php' for inclusion (include_path='.;c:\php4\pear') in c:\phpdev5\www\public\admin.sportsya.com\common\conexion.php on line 30
+[13-Feb-2004 02:15:26] PHP Warning:  Failed opening 'common/acceso.inc.php' for inclusion (include_path='.;c:\php4\pear') in c:\phpdev5\www\public\admin.sportsya.com\common\conexion.php on line 30
+[13-Feb-2004 02:17:51] PHP Warning:  Failed opening 'abm_header.php' for inclusion (include_path='.;c:\php4\pear') in c:\phpdev5\www\public\admin.sportsya.com\especiales\trivia.inc.php on line 1
+[13-Feb-2004 02:17:51] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in c:\phpdev5\www\public\admin.sportsya.com\especiales\trivia.inc.php on line 31
+[13-Feb-2004 02:17:51] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in c:\phpdev5\www\public\admin.sportsya.com\especiales\trivia.inc.php on line 51
+[13-Feb-2004 02:17:51] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in c:\phpdev5\www\public\admin.sportsya.com\especiales\trivia.inc.php on line 53
+[13-Feb-2004 02:18:29] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in c:\phpdev5\www\public\admin.sportsya.com\especiales\trivia_ganadores.php on line 20
+[13-Feb-2004 02:19:47] PHP Warning:  Cannot send session cache limiter - headers already sent (output started at c:\phpdev5\www\public\admin.sportsya.com\especiales\verificador.php:10) in c:\phpdev5\www\public\admin.sportsya.com\common\acceso.inc.php on line 2
+[17-Feb-2004 15:07:56] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in c:\phpdev5\www\public\admin.sportsya.com\especiales\futbol_fechas.php on line 139
+[17-Feb-2004 15:07:56] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in c:\phpdev5\www\public\admin.sportsya.com\especiales\futbol_fechas.php on line 167
+[17-Feb-2004 16:45:22] PHP Parse error:  parse error, unexpected $ in c:\phpdev5\www\public\admin.sportsya.com\especiales\futbol_fechas.php on line 307
+[17-Feb-2004 17:08:11] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in c:\phpdev5\www\public\admin.sportsya.com\especiales\futbol_fechas.php on line 18
+[17-Feb-2004 21:28:25] PHP Parse error:  parse error, unexpected $ in c:\phpdev5\www\public\admin.sportsya.com\especiales\newsletter.php on line 105
+[25-Feb-2004 16:46:52] PHP Warning:  Failed opening '../../common/conexion.php' for inclusion (include_path='.;c:\php4\pear') in c:\phpdev5\www\public\admin.sportsya.com\especiales\reportes.php on line 1
+[25-Feb-2004 16:46:52] PHP Warning:  Failed opening '../../includes/funciones.php' for inclusion (include_path='.;c:\php4\pear') in c:\phpdev5\www\public\admin.sportsya.com\especiales\reportes.php on line 2
+[25-Feb-2004 16:47:41] PHP Warning:  Failed opening 'common/acceso.inc.php' for inclusion (include_path='.;c:\php4\pear') in c:\phpdev5\www\public\admin.sportsya.com\common\conexion.php on line 30
+[28-Feb-2004 09:19:17] PHP Warning:  Can't connect to MySQL server on 'localhost' (10061) in c:\phpdev5\www\public\admin.sportsya.com\common\conexion.php on line 4
+[28-Feb-2004 09:19:17] PHP Warning:  MySQL Connection Failed: Can't connect to MySQL server on 'localhost' (10061)
+ in c:\phpdev5\www\public\admin.sportsya.com\common\conexion.php on line 4
+[28-Feb-2004 09:19:17] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in c:\phpdev5\www\public\admin.sportsya.com\common\conexion.php on line 5
+[28-Feb-2004 09:19:17] PHP Warning:  Cannot send session cookie - headers already sent by (output started at c:\phpdev5\www\public\admin.sportsya.com\common\conexion.php:4) in c:\phpdev5\www\public\admin.sportsya.com\common\acceso.inc.php on line 2
+[28-Feb-2004 09:19:17] PHP Warning:  Cannot send session cache limiter - headers already sent (output started at c:\phpdev5\www\public\admin.sportsya.com\common\conexion.php:4) in c:\phpdev5\www\public\admin.sportsya.com\common\acceso.inc.php on line 2
+[28-Feb-2004 09:19:17] PHP Warning:  Cannot add header information - headers already sent by (output started at c:\phpdev5\www\public\admin.sportsya.com\common\conexion.php:4) in c:\phpdev5\www\public\admin.sportsya.com\common\acceso.inc.php on line 4
+[28-Feb-2004 09:19:17] PHP Warning:  Cannot add header information - headers already sent by (output started at c:\phpdev5\www\public\admin.sportsya.com\common\conexion.php:4) in c:\phpdev5\www\public\admin.sportsya.com\common\acceso.inc.php on line 5
+[29-Feb-2004 08:38:33] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in c:\phpdev5\www\public\admin.sportsya.com\especiales\reportes.php on line 112
+[29-Feb-2004 08:41:03] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in c:\phpdev5\www\public\admin.sportsya.com\especiales\reportes.php on line 115
+[29-Feb-2004 08:41:16] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in c:\phpdev5\www\public\admin.sportsya.com\especiales\reportes.php on line 115
+[29-Feb-2004 08:41:33] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in c:\phpdev5\www\public\admin.sportsya.com\especiales\reportes.php on line 115
+[29-Feb-2004 08:41:52] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in c:\phpdev5\www\public\admin.sportsya.com\especiales\reportes.php on line 115
+[29-Feb-2004 08:41:58] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in c:\phpdev5\www\public\admin.sportsya.com\especiales\reportes.php on line 115
+[29-Feb-2004 08:50:29] PHP Parse error:  parse error, unexpected '[', expecting T_VARIABLE or '$' in c:\phpdev5\www\public\admin.sportsya.com\especiales\reportes.php on line 35
+[29-Feb-2004 08:54:40] PHP Parse error:  parse error, unexpected '}' in c:\phpdev5\www\public\admin.sportsya.com\especiales\reportes.php on line 35
+[29-Feb-2004 09:03:36] PHP Parse error:  parse error, unexpected '.', expecting ',' or ';' in c:\phpdev5\www\public\admin.sportsya.com\especiales\reportes.php on line 32
+[29-Feb-2004 09:03:48] PHP Parse error:  parse error, unexpected '\"', expecting T_VARIABLE or '$' in c:\phpdev5\www\public\admin.sportsya.com\especiales\reportes.php on line 32
+[29-Feb-2004 09:14:56] PHP Parse error:  parse error, unexpected T_IF in c:\phpdev5\www\public\admin.sportsya.com\especiales\reportes.php on line 114
+[29-Feb-2004 09:15:34] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in c:\phpdev5\www\public\admin.sportsya.com\especiales\reportes.php on line 123
+[29-Feb-2004 09:16:09] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in c:\phpdev5\www\public\admin.sportsya.com\especiales\reportes.php on line 124
+[29-Feb-2004 09:18:14] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in c:\phpdev5\www\public\admin.sportsya.com\especiales\reportes.php on line 134
+[29-Feb-2004 09:18:16] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in c:\phpdev5\www\public\admin.sportsya.com\especiales\reportes.php on line 134
+[09-Mar-2004 16:38:18] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in c:\phpdev5\www\public\admin.sportsya.com\especiales\planteles_abm.php on line 83
+[24-Mar-2004 19:00:14] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in c:\phpdev5\www\public\admin.sportsya.com\especiales\futbol_fechas.php on line 157
+[24-Mar-2004 19:00:14] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in c:\phpdev5\www\public\admin.sportsya.com\especiales\futbol_fechas.php on line 185
+[24-Mar-2004 19:15:06] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in c:\phpdev5\www\public\admin.sportsya.com\especiales\futbol_fechas.php on line 157
+[24-Mar-2004 19:15:06] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in c:\phpdev5\www\public\admin.sportsya.com\especiales\futbol_fechas.php on line 185
